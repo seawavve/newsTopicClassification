@@ -36,11 +36,11 @@ skt AI KoGPT2 fine-tuning 사용
  - KoGPT2  
     SKT에서 제공하는 대용량 한글 데이터셋 학습 GPT2 모델  
     한국어 위키 백과, 뉴스, 모두의 말뭉치 V1, 청와대 국민청원 학습  
- ### Result  
- - Loss Curve
- ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/loss_curve.jpg)
- - Accuracy Curve
- ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/accuracy_curve.jpg)
+ ### Result    
+ - Loss Curve  
+ ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/loss_curve.jpg)  
+ - Accuracy Curve  
+ ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/accuracy_curve.jpg)  
  - classification report  
  ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/classification_report.jpg)  
  - confusion matrix  
