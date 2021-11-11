@@ -1,11 +1,11 @@
 # newsTopicClassification  
   
-국립국어원 신문 말뭉치(Ver.2) 데이터셋을 활용한 한글뉴스기사 주제분류AI  
+한글뉴스기사 주제분류AI  
 국립국어원 신문 말뭉치(Ver.2) sampling Dataset를 이용    
 skt AI KoGPT2 fine-tuning 사용    
 뉴스 내용을 보고 토픽을 예측    
-
---------------------------------------  
+  
+  
 ### Data  
 국립국어원 신문 말뭉치(Ver.2) sampling Dataset  
 - Label  
