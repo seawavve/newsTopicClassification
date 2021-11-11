@@ -37,7 +37,9 @@ skt AI KoGPT2 fine-tuning 사용
     한국어 위키 백과, 뉴스, 모두의 말뭉치 V1, 청와대 국민청원 학습  
  ### Result  
  - classification report  
+ ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/gpt2_compute_graph.jpg)
  - confusion matrix  
+ ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/confusion_matrix.jpg)
 life,  social, culture가 서로 혼동  
 라벨을 통합하거나 데이터를 더 늘린다면 개선 가능  
 ### Feedback  
