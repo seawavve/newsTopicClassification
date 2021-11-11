@@ -32,12 +32,13 @@ skt AI KoGPT2 fine-tuning 사용
         KoGPT2 발매년도: 2021.9.17  
  - GPT2  
     적은 모델 파라미터로 높은 성능을 내는 자연어처리 특화 모델  
+    ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/gpt2_compute_graph.jpg)
  - KoGPT2  
     SKT에서 제공하는 대용량 한글 데이터셋 학습 GPT2 모델  
     한국어 위키 백과, 뉴스, 모두의 말뭉치 V1, 청와대 국민청원 학습  
  ### Result  
  - classification report  
- ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/gpt2_compute_graph.jpg)
+ ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/classification_report.jpg)
  - confusion matrix  
  ![](https://github.com/seawavve/newsTopicClassification/blob/main/img/confusion_matrix.jpg)
 life,  social, culture가 서로 혼동  
