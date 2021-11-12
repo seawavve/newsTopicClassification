@@ -7,7 +7,7 @@ skt AI KoGPT2 fine-tuning 사용
   
   
 ### Data  
-국립국어원 신문 말뭉치(Ver.2) sampling Dataset  
+국립국어원 신문 말뭉치(Ver.1.1) sampling Dataset  
 - Label  
     - 0: ITscience  
     - 1: culture  
