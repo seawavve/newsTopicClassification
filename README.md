@@ -2,7 +2,7 @@
   
 한글뉴스기사 주제분류AI  
 국립국어원 신문 말뭉치(Ver.1.1) sampling Dataset를 이용    
- AI KoGPT2 fine-tuning 사용    
+SKT AI KoGPT2 fine-tuning 사용    
 뉴스 내용을 보고 토픽을 예측    
   
   
